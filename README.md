@@ -131,7 +131,7 @@ CREATE TABLE schools (
 ## 📬 Postman Collection
 
 You can import the Postman collection via this shared link:  
-**[Postman Collection Link](#)**  
+**[Postman Collection Link](https://bunny-63439.postman.co/workspace/Bunny's-Workspace~55747ebd-b694-4ae5-886e-aa45ccc39a1b/collection/45217689-33adcdca-f2fe-4bb7-b597-5aa4e1ad289b?action=share&creator=45217689)**  
 
 ---
 
@@ -139,7 +139,7 @@ You can import the Postman collection via this shared link:
 
 You can access the live API at:  
 **https://api-d3s3.onrender.com/**  
-*(replace with your live deployment URL)*
+
 
 ---
 
